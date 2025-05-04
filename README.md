@@ -2,6 +2,9 @@
 
 **Random games & stuff dropbox**
 
+Grab the latest builds here:  
+https://github.com/scooter213dog/MISC/releases
+
 ## What’s here
 
 - **BruhTown.exe** – absurdist meme platformer  
